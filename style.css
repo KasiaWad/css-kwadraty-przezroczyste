@@ -1,9 +1,27 @@
 body {
     background-color: #f5f5dd;
 }
-.square {
-    color:black;
-    width: 40px;
-    height: 40px;
+.square1 {
+    background-color:black;
+    width: 60px;
+    height: 60px;
+    margin-bottom: 10px;
 }
 
+.square2 {
+    background-color:rgba(0, 0, 0, 0.678);
+    width: 60px;
+    height: 60px;
+    margin-bottom: 10px;
+}
+.square3 {
+    background-color:rgba(0, 0, 0, 0.322);
+    width: 60px;
+    height: 60px;
+    margin-bottom: 10px;
+}
+.square4 {
+    background-color:rgba(0, 0, 0, 0.171);
+    width: 60px;
+    height: 60px;
+    margin-bottom: 10px;
